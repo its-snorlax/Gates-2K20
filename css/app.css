@@ -5115,7 +5115,7 @@ section {
 
 #archive {
     color: #222222;
-    background: #FFFFFF url(../img/white-bg.png);
+    /*background: #FFFFFF url(../img/white-bg.png);*/
     background: url(https://firebasestorage.googleapis.com/v0/b/gates-2k19.appspot.com/o/images%2Fgates_web_background.png?alt=media&token=e33205e0-f10d-4917-9537-3061f5cd4993);
     background-position: center;
     background-size: cover;
