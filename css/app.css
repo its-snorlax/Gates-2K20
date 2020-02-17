@@ -4682,8 +4682,8 @@ section {
 
 #agenda {
     color: #222222;
-    background: #b38600 url(../img/flashback-bg.jpg);
-    background: #dee3f1 url("../img/flashback-bg.jpg");
+    background: #b38600 url(../img/white-bg.png);
+    background: #dee3f1 url("../img/white-bg.png");
 }
 
 #agenda h1, #agenda h2, #agenda h3, #agenda #archive .grid a .day, #archive .grid a #agenda .day, #agenda h4, #agenda h5, #agenda h6, #agenda #archive .grid a .month, #archive .grid a #agenda .month, #agenda .subheader, #agenda p, #agenda blockquote, #agenda a, #agenda small, #agenda #archive .grid a .year, #archive .grid a #agenda .year {
